@@ -8,7 +8,6 @@ license = "MIT OR Apache-2.0"
 description = "Hand derived machine learning primitives"
 readme = "README.md"
 
-
 [dependencies]
 ndarray = { version = "0.16.1", features = ["serde"] }
 ndarray-rand = "0.15.0"
