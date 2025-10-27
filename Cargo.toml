@@ -5,7 +5,7 @@ edition = "2024"
 repository = "https://github.com/naatebarber/primitives"
 homepage = "https://github.com/naatebarber/primitives"
 license = "MIT OR Apache-2.0"
-description = "Hand derived machine learning primitives"
+description = "Machine learning primitives"
 readme = "README.md"
 
 [dependencies]
