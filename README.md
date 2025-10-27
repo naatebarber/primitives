@@ -1,8 +1,8 @@
 # Machine Learning Primitives
 
 Whenever I go to use a new machine learning algorithm / architecture / technique, I normally write it out myself first using plain Rust and NDArray. 
-Doing all the differentiation myself helps me understand better I've found. I figured I would collect these handwritten architectures here as I go, not at all
-a library, but moreso a set of primitives / a toolbox I'll be revisiting from time to time.
+Doing all the differentiation and grunt work helps me appreciate this stuff more, and I like that nothing is hidden. I figured I would collect these 
+handwritten architectures as I go. This is not at all a library, but moreso a set of primitives / a toolbox I'll be revisiting from time to time.
 
 ### Sections
 - `envs`: Various simulators used to test stuff
